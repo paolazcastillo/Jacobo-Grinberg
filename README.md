@@ -6,17 +6,17 @@ Repo following ideas of lattice and experiments from  the mexican neuroscientist
 _Early Life and Education_
 
 Dr. Jacobo Grinberg-Zylberbaum was born in Mexico City on December 12, 1946, during a period of rapid modernization in Mexico. His trajectory as a consciousness researcher was profoundly shaped by a tragic childhood event: at the age of 12, he witnessed his mother's death from a brain tumor. This traumatic experience sparked his lifelong fascination with the human mind and planted the seeds of his future scientific career.
-
 Grinberg pursued psychology at the Faculty of Psychology at the National Autonomous University of Mexico (UNAM), where he completed his undergraduate studies. Driven by his passion to understand the mechanisms of consciousness and brain function, he made a pivotal decision in 1970 to travel to New York City to advance his education.
 
-_Academic Career in the United States_
-In New York, Grinberg enrolled at the Brain Research Institute, where he pursued advanced studies in psychophysiology. He earned his Ph.D. from the E. Roy John Laboratory, focusing his doctoral research on the electrophysiological effects of geometric stimuli on the human brain. This work would later influence his theoretical development of consciousness studies.
-Return to Mexico and Institutional Development
-Upon returning to Mexico in the early 1970s, Grinberg embarked on an ambitious mission to establish consciousness research infrastructure in his homeland. He founded his first psychophysiology laboratory at Universidad Anáhuac in Mexico City, marking the beginning of his institutional legacy.
-In the late 1970s, he established another laboratory of similar nature at UNAM, further expanding his research capabilities. The culmination of his institutional efforts came in 1987 with the founding of the Instituto Nacional para el Estudio de la Conciencia (INPEC) - the National Institute for the Study of Consciousness. This institute, funded by UNAM and the National Council of Science and Technology (CONACYT), became the primary center for his groundbreaking research.
-Scientific Contributions and Research
+_Academic Career and Research Training_
+In 1970, Grinberg traveled to New York City to study psychophysiology at the Brain Research Institute, where he worked in the E. Roy John Laboratory. This experience exposed him to cutting-edge research on the electrophysiological effects of geometric stimuli on the human brain and distributed memory theory. This work would later influence his theoretical development of consciousness studies.
 
-_The Syntergic Theory_
+_Return to Mexico and Academic Development_
+Upon returning to Mexico in the early 1970s, Grinberg embarked on an ambitious mission to establish consciousness research infrastructure in his homeland. In 1987, he completed his doctoral degree at UNAM with the thesis "Correlativos electrofisiológicos de la comunicación humana" (Electrophysiological Correlates of Human Communication). He founded his first psychophysiology laboratory at Universidad Anáhuac in Mexico City when he was just 23 years old, marking the beginning of his institutional legacy.
+In the late 1970s, he established another laboratory of similar nature at UNAM, further expanding his research capabilities. The culmination of his institutional efforts came in 1987 with the founding of the Instituto Nacional para el Estudio de la Conciencia (INPEC) - the National Institute for the Study of Consciousness. This institute, funded by UNAM and the National Council of Science and Technology (CONACYT), became the primary center for his groundbreaking research. Remarkably, this achievement coincided with the completion of his doctoral degree at UNAM the same year.
+
+_Scientific Contributions and Research_
+**The Syntergic Theory**
 Grinberg's most significant theoretical contribution was the development of the Syntergic Theory (from Spanish "síntesis" and "energía" - synthesis and energy). This revolutionary framework proposed that consciousness emerges from the interaction between the brain and what he termed the "Lattice" - a holographic, non-local structure underlying reality itself.
 According to his theory, the brain doesn't simply receive and process information passively, but actively interacts with a fundamental energetic matrix to create perceived reality. He proposed that the "neuronal field" emanating from the brain distorts this lattice, generating the subjective experience we recognize as consciousness.
 The Transferred Potential Experiments
@@ -42,7 +42,6 @@ Astrology: Attempts to correlate astrological factors with neurophysiological ch
 
 Publications and Legacy
 Grinberg was remarkably prolific, authoring more than 50 books covering neuroscience, psychology, shamanism, meditation, and consciousness studies. Many of his works were translated into multiple languages. His publications included both peer-reviewed scientific papers and philosophical treatises that attempted to bridge Eastern spiritual traditions with Western scientific methodology.
-
 His published scientific papers include:
 
 "The transformation of neuronal activity into conscious experience: the syntergic theory" (1981)
@@ -53,10 +52,12 @@ His published scientific papers include:
 _Scientific Reception and Controversy_
 Grinberg's work was met with significant skepticism from the mainstream scientific community. Critics accused him of engaging in "psi assumption" - the premise that any statistical deviation from chance represented evidence of telepathy or other psychic phenomena. His integration of shamanic practices with neuroscience was particularly controversial and led to his marginalization within academic circles.
 However, some researchers attempted to replicate his findings. Physicist Fred H. Thaheld and psychologist Charles Tart at UC Davis conducted similar experiments with statistically significant results, lending some credibility to Grinberg's claims.
-Personal Life and Character
+
+_Personal Life and Character_
 Grinberg was described as a dreamer and visionary who was unafraid to challenge scientific orthodoxy. Coming from a Jewish background, he uniquely integrated his heritage with indigenous Mexican spiritual traditions, creating a synthesis that was both personal and professional.
 Colleagues noted his increasing nervousness in his final months, with reports that he had confessed to "knowing too much" and had been sleeping in a van due to security concerns.
-The Mysterious Disappearance
+
+_The Mysterious Disappearance_
 On December 8, 1994, just four days before his 48th birthday, Dr. Jacobo Grinberg vanished without a trace. His family had prepared a birthday celebration for December 12, but he never appeared. Initially, his absence didn't alarm his family, as he was known for spontaneous travels and periods of incommunication.
 However, as days turned to weeks, it became clear that something was seriously wrong. His car was found abandoned at Mexico City airport, but no record exists of him boarding any flight. No signs of struggle were found in his home, and no body was ever recovered.
 
@@ -69,15 +70,16 @@ Dimensional Slip: Given his work on consciousness and reality, some suggest he m
 Personal Conflicts: Inconsistencies in his wife Teresa Mandil's statements led to speculation about domestic involvement
 Scientific Silencing: His controversial discoveries may have posed a threat to established scientific paradigms
 
-Current Status and Ongoing Mystery
+_Current Status and Ongoing Mystery_
 Nearly 30 years after his disappearance, Jacobo Grinberg's fate remains unknown. There have been unverified sightings, including a claim by a gas station worker in New Mexico, and even a bizarre report of him boarding a spherical spacecraft. However, no credible evidence of his survival or death has emerged.
 The case remains one of Mexico's most puzzling unsolved mysteries, inspiring documentaries, podcasts, books, and ongoing investigations by researchers and conspiracy theorists alike.
-Scientific Legacy and Modern Relevance
+
+_Scientific Legacy and Modern Relevance_
 Despite the controversy surrounding his disappearance, Grinberg's scientific contributions continue to influence researchers in consciousness studies, neuroscience, and parapsychology. His work anticipated modern discussions about:
 
-The observer effect in quantum mechanics
+**The observer effect in quantum mechanics**
 Consciousness as a fundamental property of the universe
 The integration of ancient wisdom traditions with modern science
 Non-local correlations in biological systems
 
-Organizations like the Centro de Investigación de la Sinergia y de la Consciencia (CISC) continue to explore his theories, and efforts are underway to revive INPEC under the name "Jacobo Grinberg Academy.
+Organizations like the Centro de Investigación de la Sinergia y de la Consciencia (CISC) continue to explore his theories, and efforts are underway to revive INPEC under the name "Jacobo Grinberg Academy".
