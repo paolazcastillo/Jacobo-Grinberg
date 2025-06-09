@@ -3,7 +3,7 @@ Repo following ideas of lattice and experiments from  the mexican neuroscientist
 
 **Jacobo Grinberg-Zylberbaum: Complete Biography**  
 
-![Dr. Jacobo Grinberg](images/profile/jacobo.jpg "Dr. Jacobo Grinberg-Zylberbaum")
+![Dr. Jacobo Grinberg](jacobo.jpg "Dr. Jacobo Grinberg-Zylberbaum")
 
 _Early Life and Education_
 
