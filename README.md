@@ -1,7 +1,8 @@
 # Jacobo-Grinberg
 Repo following ideas of lattice and experiments from  the mexican neuroscientist Jacobo Grinberg. 
 
-**Jacobo Grinberg-Zylberbaum: Complete Biography**
+**Jacobo Grinberg-Zylberbaum: Complete Biography**  
+
 _Early Life and Education_
 
 Dr. Jacobo Grinberg-Zylberbaum was born in Mexico City on December 12, 1946, during a period of rapid modernization in Mexico. His trajectory as a consciousness researcher was profoundly shaped by a tragic childhood event: at the age of 12, he witnessed his mother's death from a brain tumor. This traumatic experience sparked his lifelong fascination with the human mind and planted the seeds of his future scientific career.
